@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@osjwnpm/suscipit-sint-nesciunt",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/osjwnpm/suscipit-sint-nesciunt.git"
   },
   "dependencies": {
+    "@diahkomalasarinpm/pariatur-quibusdam-expedita-vero": "^1.0.0",
+    "@f1stnpm2/ut-numquam-doloremque-sequi": "^1.0.0",
+    "@osjwnpm/ducimus-eligendi-voluptatem": "^1.0.0",
+    "@osjwnpm/neque-est-magnam": "^1.0.0",
+    "@osjwnpm/quibusdam-sed-nihil": "^1.0.0"
   }
 }
